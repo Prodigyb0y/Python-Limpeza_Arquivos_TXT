@@ -1,0 +1,1 @@
+O código tem a finalidade de efetuar a limpeza em um arquivo no formato texto específico em uma pasta na rede ou local
